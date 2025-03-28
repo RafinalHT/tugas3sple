@@ -1,0 +1,2 @@
+module aisco.product.ewallet {
+}

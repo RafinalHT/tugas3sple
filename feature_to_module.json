@@ -20,10 +20,13 @@
 	"Donation": [
 		"aisco.donation.core"
 	],
-	"DirectPayment":[
+	"DirectPayment": [
 		"aisco.donation.core"
 	],
 	"PaymentGateway": [
 		"aisco.donation.pgateway"
+	],
+	"EWallet": [
+		"aisco.donation.ewallet"
 	]
 }

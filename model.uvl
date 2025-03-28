@@ -17,4 +17,7 @@ features
 				alternative
 					DirectPayment
 					PaymentGateway
+					EWallet
+					BankTransfer
+					CreditCard
 
